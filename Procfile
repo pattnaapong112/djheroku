@@ -1,1 +1,1 @@
-wed: gunicorn djheroku.wsgi
+web: gunicorn djheroku.wsgi
